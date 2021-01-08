@@ -7,5 +7,5 @@ The Course Notebooks for the Python Workshop 2021 conducted by YGSL
 
 # 1. Installations.
 
--Download [Anaconda](https://docs.anaconda.com/anaconda/install/)
---lollll
+- Download [Anaconda](https://docs.anaconda.com/anaconda/install/)
+-- lollll
