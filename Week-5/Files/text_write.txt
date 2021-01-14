@@ -1,5 +1,0 @@
-Python is a great language.
-Yeah I love it!
- 
-Just appending some text
-lests see what happens guys.

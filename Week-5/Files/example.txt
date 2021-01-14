@@ -1,8 +1,0 @@
-Hello guys,
-Welcome to the python workshop
-conducted by YGSL
-This is the example text
-let's learn how to load a file
-line by line 
-in a python script.
-Thanks for joining guys.
