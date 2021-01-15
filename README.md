@@ -1,6 +1,6 @@
 # THE IDLE -  Python Crash Course - 2021
 
-<b> Welcome Everyone </b>
+## Welcome Everyone 
 
 This repository contains the study material of the Python Crash Course conducted by Youth Govern SL.
 
@@ -17,5 +17,12 @@ This repository contains the study material of the Python Crash Course conducted
 Please note that each session's material would be released weekly.
 
 
+## Setup Guide 
+
+### Anaconda Setup
 
 
+- Anaconda Individual Edition is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages
+Install [Anaconda](https://docs.anaconda.com/anaconda/install/) in your local machine Using the Guidlines for your OS.
+
+- After Installation, open anaconda and within install 
