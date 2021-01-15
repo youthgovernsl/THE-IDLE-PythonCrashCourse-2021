@@ -16,10 +16,6 @@ This repository contains the study material of the Python Crash Course conducted
 
 Please note that each session's material would be released weekly.
 
-## Setup
 
-# 1. Installations.
-
-- Download [Anaconda](https://docs.anaconda.com/anaconda/install/)
 
 
