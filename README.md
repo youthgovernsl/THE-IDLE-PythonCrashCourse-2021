@@ -25,4 +25,8 @@ Please note that each session's material would be released weekly.
 - Anaconda Individual Edition is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages
 Install [Anaconda](https://docs.anaconda.com/anaconda/install/) in your local machine Using the Guidlines for your OS.
 
-- After Installation, open anaconda and within install   
+- After Installation, open anaconda and within Anaconda install CMD.exe , Jupyter Notebook and Jupyter Labs. 
+
+### GitHub Setup
+
+- In this page 
