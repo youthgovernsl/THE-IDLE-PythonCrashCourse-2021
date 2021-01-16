@@ -27,6 +27,3 @@ Install [Anaconda](https://docs.anaconda.com/anaconda/install/) in your local ma
 
 - After Installation, open anaconda and within Anaconda install CMD.exe , Jupyter Notebook and Jupyter Labs. 
 
-### GitHub Setup
-
-- In this page 
