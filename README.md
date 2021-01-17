@@ -20,7 +20,7 @@ Please note that each session's material would be released weekly.
 
 - Follow the picture below to download the weekly material
 
-![GitHub Logo](/images/download.png)
+![download](https://github.com/youthgovernsl/THE-IDLE-PythonCrashCourse-2021/blob/main/images/download.jpg)
 
 - Upload the folder to your google drive to open using Google Colab
 
