@@ -16,6 +16,13 @@ This repository contains the study material of the Python Crash Course conducted
 
 Please note that each session's material would be released weekly.
 
+## Repo Download Instructions
+
+- Follow the picture below to download the weekly material
+
+![GitHub Logo](/images/download.png)
+
+- Upload the folder to your google drive to open using Google Colab
 
 ## Setup Guide 
 
