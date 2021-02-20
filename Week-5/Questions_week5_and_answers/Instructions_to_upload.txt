@@ -1,2 +1,0 @@
-(*) Complete the questions in the two folders
-(*) Then after doing the questions in the python files in the directories, zip the two folders and upload it.
