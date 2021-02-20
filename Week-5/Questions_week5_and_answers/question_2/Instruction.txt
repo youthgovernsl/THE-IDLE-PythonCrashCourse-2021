@@ -1,0 +1,25 @@
+(*) Your task in this question is to create a christmas tree in a txt file,refer the diagram below the height must be 20 '*'s
+    with 15 '*' height for trees leaves and 5 '*' for the stump and 5 '*' thickness for the stump.
+
+    Name the file you save as output_Q2.txt
+
+              *
+             ***
+            *****
+           *******
+          *********
+         ***********
+        *************
+       ***************
+      *****************
+     *******************
+    *********************
+   ***********************
+  *************************
+ ***************************
+*****************************
+            *****
+            *****
+            *****
+            *****
+            *****

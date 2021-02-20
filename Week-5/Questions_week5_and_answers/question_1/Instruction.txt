@@ -1,0 +1,40 @@
+(*) The District_Location.txt contains the a list of  districts with there longitude and latitude, the task is to create a
+dictionary where the key is the district name and the value is the list of longitude and latitude a template is provided for you
+in that complete the file_to_dictionary() function.
+
+(*)The longitude and latitude must be in the data type float inside the list.
+
+(*)The save_to_json() function will save your dictionary as a json object to this save directory (you don't have to change this code segment
+only complete the file_to_dictionary() function)
+
+(*) Note:- 1. you are NOT allowed to use pandas for this.
+           2. When you print the output it maybe not look exactly like below but that is fine
+
+The output dictionary:-
+{
+"Colombo": [6.907557, 79.8602656],
+"Gampaha": [7.13394, 80.022504],
+"Puttalam": [7.938736, 79.942281],
+"Kalutara": [6.581715, 80.135822],
+"Anuradhapura": [8.321418, 80.394877],
+"Kandy": [7.299622, 80.648246],
+"Kurunegala": [7.659964, 80.257308],
+"Polonnaruwa": [7.994924, 81.035596],
+"Jaffna": [9.738581, 80.081293],
+"Ratnapura": [6.564179, 80.563616],
+"Kegalle": [7.115695, 80.325754],
+"Moneragala": [6.724356, 81.353858],
+"Matale": [7.643962, 80.695727],
+"Galle": [6.217619, 80.245742],
+"Ampara": [7.121484, 81.737674],
+"Badulla": [6.98901, 81.058134],
+"Matara": [6.12816, 80.549586],
+"Batticoloa": [7.802206, 81.462288],
+"Hambantota": [6.23057, 81.166867],
+"Vavunia": [8.746393, 80.482031],
+"Trincomalee": [8.466183, 81.074024],
+"Nuwaraeliya": [6.949846, 80.784117],
+"Kilinochchi": [9.383391, 80.309952],
+"Mannar": [8.830335, 80.098404],
+"Mullativu": [9.254172, 80.625636]
+}
